@@ -32,6 +32,7 @@
 - Otg work
 - Twrp booted
 - fastboot to gsi / custom rom install. Then gsi rom / custom rom twrp flashing work
+-  virtual A/b 
 
 ## Bug
 - Touch still dead ( use OTG mouse )
@@ -39,8 +40,6 @@
 - data Unable mount (Format data - yes to work) 
 - Fastbootd not work
 
-## About
-** Device shipped as Android 11, Also Use virtual A/b **
 
 
 
