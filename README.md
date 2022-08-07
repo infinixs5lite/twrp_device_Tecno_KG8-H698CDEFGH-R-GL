@@ -23,5 +23,25 @@
 
 ![Tecno spark 8 pro](KG8.png)
 
+## WORKING
+- Flashing magisk
+- Back up and restore ( back up your Imei )
+- Back UP System Product Vndor and rename img to flash work
+- Android 11-13 Twrp work
+- Mtp work
+- Otg work
+- Twrp booted
+- fastboot to gsi / custom rom install. Then gsi rom / custom rom twrp flashing work
+
+## Bug
+- Touch still dead ( use OTG mouse )
+- Decryption
+- data Unable mount (Format data - yes to work) 
+- Fastbootd not work
+
+## About
+** Device shipped as Android 11, Also Use virtual A/b **
+
+
 
 
