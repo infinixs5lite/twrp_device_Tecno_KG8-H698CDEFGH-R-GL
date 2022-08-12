@@ -18,11 +18,8 @@ product             /product         ext4      ro     wait,slotselect,avb,logica
 /super          	 emmc    	/dev/block/platform/bootdevice/by-name/super            flags=backup=1;display="Super_image";flashimg=1
 /system_image	    emmc  	/dev/block/mapper/system                flags=backup=1;flashimg=1;display="System Image";slotselect
 /system     		     ext4	     /dev/block/mapper/system 
-/system_ext_image   emmc    /dev/block/mapper/system_ext            flags=backup=1;flashimg=1;display="System_ext Image";slotselect
 /vendor_image	    emmc  	/dev/block/mapper/vendor                flags=backup=1;flashimg=1;display="Vendor Image";slotselect
 /vendor              ext4      /dev/block/mapper/vendor 
-/product_image	  emmc	/dev/block/mapper/product                 flags=backup=1;flashimg=1;display="Product Image";slotselect
-/product             ext4      /dev/block/mapper/product  
 
 # Common partition                                                                                        
 /boot            emmc    /dev/block/by-name/boot               flags=backup=1;display="Boot";flashimg=1;slotselect
