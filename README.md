@@ -31,7 +31,7 @@
 - Mtp work
 - Otg work
 - Twrp booted
-- fastboot to gsi / custom rom install. Then gsi rom / custom rom twrp flashing work
+- At  fastboot to gsi rom insall . Then gsi rom / custom rom twrp flashing work
 -  virtual A/b 
 
 ## Bug
